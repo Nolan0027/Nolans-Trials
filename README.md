@@ -1,22 +1,12 @@
 
 > Open this page at [https://nolan0027.github.io/nolanstrials/](https://nolan0027.github.io/nolanstrials/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/nolan0027/nolanstrials** and import
-
-## Edit this project ![Build status badge](https://github.com/nolan0027/nolanstrials/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/nolan0027/nolanstrials** and click import
+World Records
+Level 1 (computerstone): 18.25secs (nolan0027)
+Level 2: Null
+Level 3: Null
+Level 4: Null
+Level 5: Null
 
 ## Blocks preview
 
