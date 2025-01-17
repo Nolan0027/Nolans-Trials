@@ -1,0 +1,12 @@
+{
+    "btp+[": {
+        "data": "hwQFAAUAAABwdwAAd3cHAHd3BwB3dwcAcHcAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Playr"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
