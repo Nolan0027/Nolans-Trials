@@ -2,11 +2,11 @@
 > Open this page at [https://nolan0027.github.io/nolanstrials/](https://nolan0027.github.io/nolanstrials/)
 
 World Records
-Level 1 (computerstone): 18.25secs (nolan0027)
-Level 2: Null
-Level 3: Null
-Level 4: Null
-Level 5: Null
+- Level 1 (computerstone): 18.25secs (nolan0027)
+- Level 2: Null
+- Level 3: Null
+- Level 4: Null
+- Level 5: Null
 
 ## Blocks preview
 
